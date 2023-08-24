@@ -1,4 +1,4 @@
-# 李跳跳软件的永久备份
+# 李跳跳 APK 软件的永久备份
 
 # [➡ 🔗下载链接🔗 ⬅](https://github.com/vYLQs6/MissLee/releases/download/v2.2/Miss_Lee_v2.2.apk)
 ### https://github.com/vYLQs6/MissLee/releases/download/v2.2/Miss_Lee_v2.2.apk
