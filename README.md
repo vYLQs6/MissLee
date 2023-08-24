@@ -4,7 +4,7 @@
 ### https://github.com/vYLQs6/MissLee/releases/download/v2.2/Miss_Lee_v2.2.apk
 
 ### 我不是李跳跳软件的开发者, 只是一个热心群众😋
-### 此帐号使用匿名邮箱注😆我不会在任何情况下主动删除此Repo, 如果哪天Repo被删了就是github干的🤐
+### 此帐号使用匿名邮箱注册😆我不会在任何情况下主动删除此Repo, 如果哪天Repo被删了就是github干的🤐
 ---
 某国内互联网大厂发律师函 “李跳跳”将无限期停更
 
